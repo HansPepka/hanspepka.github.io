@@ -1,0 +1,87 @@
+{
+  "visual": {
+    "navbar": {
+      "links": [
+        { "label": "Experience", "path": "/#experience" },
+        { "label": "Projects", "path": "/#projects" },
+        { "label": "Skills", "path": "/#skills" },
+        { "label": "Education", "path": "/#education" },
+        { "label": "Testimonials", "path": "/#testimonials" },
+        { "label": "Blogs", "path": "/#blogs" }
+      ]
+    },
+    "home": {
+      "sections": {
+        "banner": true,
+        "experience": true,
+        "project": true,
+        "skills": true,
+        "education": true,
+        "testimonial": true,
+        "blog": true
+      }
+    }
+  },
+  "personalInfo": {
+    "name": "Hans",
+    "title": "Cryptography engineer",
+    "location": "Kigali, Rwanda",
+    "photo": "",
+    "bio": "I'm a cryptography engineer with a networking background, building cross-platform apps with React Native, Expo and TypeScript. I like understanding how things work end to end, from the network up to the app in your hand, and I'm growing toward DevOps and infrastructure. Let's connect and build something together."
+  },
+  "contactInfo": {
+    "email": "hans.pepka@aims-cameroon.org",
+    "github": "https://github.com/Kdqv",
+    "linkedin": "https://www.linkedin.com/in/hans-pepka-9849361b6/",
+    "x": "https://x.com/your-username",
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  },
+  "skills": {
+    "Languages": ["TypeScript", "JavaScript", "Python", "C"],
+    "Backend & Data": ["Firebase", "Node.js", "Twilio"],
+    "Networking & Ops": ["Computer networking", "Linux (Ubuntu)", "CI/CD basics", "Containerization"],
+    "Tools": ["Git", "GitHub", "GitHub CLI", "GitHub Actions", "VS Code", "Docker", "Jupyter Notebook"]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Capto Web App",
+      "description": "Web app for Capto, a voice-first platform for tradespeople in France. Users record a voice note and AI turns it into a quote or invoice, with automation for missed calls.",
+      "technologies": ["React Native", "Expo", "TypeScript", "Firebase"],
+      "live_url": "",
+      "code_repo_url": "",
+      "cover": "/assets/project-capto.svg"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "1",
+      "company": "AIMS Research and Innovation Center",
+      "companyWebsite": "https://aimsric.org/",
+      "role": "Software Engineer Intern",
+      "startDate": "July 2026",
+      "endDate": "Febuary 2026",
+      "technologies": ["React JS", "Node JS", "TypeScript", "Firebase"],
+      "keyResponsibilities": [
+        "Contribute to the cross-platform web app for a voice-first SaaS product that turns tradespeople's voice notes into quotes and invoices.",
+        "Set up and maintain the React JS",
+        "Research Twilio integration for automated missed-call handling.",
+        "Work with Firebase-backed data.",
+        "Collaborate in a team with parallel workstreams, sprint planning and CI/CD pipelines."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "African Institute for Mathematical Sciences (AIMS) Cameroon",
+      "degree": "Master degree",
+      "description": "Add a sentence or two about what you studied, for example your networking courses, projects and any certifications.",
+      "startDate": "August 2025",
+      "endDate": "Febuary 2026"
+    }
+  ],
+  "testimonials": []
+}
