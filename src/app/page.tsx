@@ -39,7 +39,7 @@ export default async function Home() {
             <div className="w-full lg:w-2/3 space-y-4">
               <div className="space-y-3">
                 <h1 className="text-4xl md:text-5xl font-bold tracking-tighter">
-                  Hey 👋, I&apos;m {data.personalInfo.name}
+                  Hey, I&apos;m {data.personalInfo.name}
                 </h1>
                 {(data.personalInfo.title || data.personalInfo.location) && (
                   <p className="flex flex-wrap items-center gap-x-3 gap-y-1 text-base md:text-lg font-medium">

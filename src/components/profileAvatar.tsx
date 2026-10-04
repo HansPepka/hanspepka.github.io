@@ -31,7 +31,7 @@ export default function ProfileAvatar({
       <div
         role="img"
         aria-label={name}
-        className="relative mx-auto flex aspect-square w-full items-center justify-center overflow-hidden rounded-full bg-gradient-to-br from-primary via-primary/80 to-fuchsia-400 text-white shadow-lg ring-8 ring-primary/10"
+        className="relative mx-auto flex aspect-square w-full items-center justify-center overflow-hidden rounded-full bg-gradient-to-br from-emerald-700 via-emerald-500 to-teal-300 text-white shadow-lg ring-8 ring-primary/10"
       >
         <span className="select-none text-[6rem] font-bold leading-none tracking-tighter sm:text-[7rem]">
           {initials(name)}
