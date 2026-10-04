@@ -27,7 +27,7 @@
     "title": "Cryptography engineer",
     "location": "Kigali, Rwanda",
     "photo": "",
-    "bio": "I'm a cryptography engineer with a networking background, building cross-platform apps with React Native, Expo and TypeScript. I like understanding how things work end to end, from the network up to the app in your hand, and I'm growing toward DevOps and infrastructure. Let's connect and build something together."
+    "bio": "I'm a cryptography engineer with a networking background, building secure web applications with React JS, Node JS and TypeScript. I like understanding how things work end to end, from the network up to the app in your hand, and I'm growing toward DevOps and infrastructure. Let's connect and build something together."
   },
   "contactInfo": {
     "email": "hans.pepka@aims-cameroon.org",
@@ -49,7 +49,7 @@
       "id": "1",
       "title": "Capto Web App",
       "description": "Web app for Capto, a voice-first platform for tradespeople in France. Users record a voice note and AI turns it into a quote or invoice, with automation for missed calls.",
-      "technologies": ["React Native", "Expo", "TypeScript", "Firebase"],
+      "technologies": ["React JS", "Docker", "Firebase", "Git"],
       "live_url": "",
       "code_repo_url": "",
       "cover": "/assets/project-capto.svg"
