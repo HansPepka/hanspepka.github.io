@@ -14,26 +14,6 @@ export default async function Footer() {
         <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
           &copy; {year} {data.personalInfo.name}. All rights reserved.
         </p>
-        <p className="text-xs text-gray-400 text-center">
-          Template by
-          <a
-            href="https://github.com/Logging-Studio"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="ml-1 text-primary hover:underline"
-          >
-            Logging Studio
-          </a>{" "}
-          • Distributed by
-          <a
-            href="https://themewagon.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="ml-1 text-primary hover:underline"
-          >
-            ThemeWagon
-          </a>
-        </p>
       </div>
     </footer>
   );
