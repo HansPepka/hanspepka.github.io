@@ -41,7 +41,7 @@
   "skills": {
     "Languages": ["TypeScript", "JavaScript", "Python", "C"],
     "Backend & Data": ["Firebase", "Node.js", "Twilio"],
-    "Networking & Ops": ["Computer networking", "Linux (Ubuntu)", "CI/CD basics", "Containerization"],
+    "Networking & Ops": ["Computer networking", "Bash scripting", "CI/CD basics", "Containerization"],
     "Tools": ["Git", "GitHub", "GitHub CLI", "GitHub Actions", "VS Code", "Docker", "Jupyter Notebook"]
   },
   "projects": [
@@ -62,7 +62,7 @@
       "companyWebsite": "https://aimsric.org/",
       "role": "Software Engineer Intern",
       "startDate": "July 2026",
-      "endDate": "Febuary 2026",
+      "endDate": "Febuary 2027",
       "technologies": ["React JS", "Node JS", "TypeScript", "Firebase"],
       "keyResponsibilities": [
         "Contribute to the cross-platform web app for a voice-first SaaS product that turns tradespeople's voice notes into quotes and invoices.",
@@ -80,7 +80,7 @@
       "degree": "Master degree",
       "description": "Add a sentence or two about what you studied, for example your networking courses, projects and any certifications.",
       "startDate": "August 2025",
-      "endDate": "Febuary 2026"
+      "endDate": "Febuary 2027"
     }
   ],
   "testimonials": []
